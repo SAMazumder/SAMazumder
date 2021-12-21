@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SAMazumder
-- 👀 I’m interested in Functional Analysis
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @SAMazumder
+I'm a MSc.Applied Math candidate at Ryerson University with a focus on Coherent Risk Measures and their assymptotic properties.
+
+Right now, my github is just a repo for any work I have saved. I'll organize it at some point.
 
 <!---
 SAMazumder/SAMazumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
