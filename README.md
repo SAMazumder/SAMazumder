@@ -1,5 +1,5 @@
-Hi, I’m @SAMazumder
-I'm a MSc.Applied Math candidate at Ryerson University with a focus on Coherent Risk Measures and their assymptotic properties.
+Hi, I’m Saumitra Mazumder. Friends call me Sammi.
+I'm an MSc.Applied Math candidate at Ryerson University with a focus on Coherent Risk Measures and their assymptotic properties.
 
 Right now, my github is just a repo for any work I have saved. I'll organize it at some point.
 
