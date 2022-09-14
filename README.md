@@ -1,4 +1,4 @@
-I'm an MSc.Applied Math candidate at Ryerson University with a focus on Coherent Risk Measures and their assymptotic properties.
+Former mathematician (?). B.Sc., M.Sc. Applied Math. from Toronto Metropolitan University (formerly Ryerson University) with a focus on Coherent Risk Measures and their assymptotic properties.
 
 My math interests lie in Functional Analysis, Probability and Stochastic Processes. 
 
